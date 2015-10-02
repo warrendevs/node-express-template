@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+title {
+    font-weight: 700;
+}
+
+div {
+    font-size: 14x;
+}
+
+h1.title {
+    font-size: 36px;
+}
